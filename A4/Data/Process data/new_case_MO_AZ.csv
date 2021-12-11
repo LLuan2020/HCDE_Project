@@ -1,0 +1,650 @@
+,Province_State_x,Date,Confirmed_Cases_x,County_Name_x,order_code_x,Face_Masks_Required_in_Public_x,New_Cases,New_Cases_Smooth,Province_State_y,Confirmed_Cases_y,County_Name_y,order_code_y,Face_Masks_Required_in_Public_y,New_cases_MO,New_Cases_Smooth_MO
+0,Arizona,2020-01-22,0,,,,,,Missouri,0,,,,,
+1,Arizona,2020-01-23,0,,,,0.0,,Missouri,0,,,,0.0,
+2,Arizona,2020-01-24,0,,,,0.0,,Missouri,0,,,,0.0,
+3,Arizona,2020-01-25,0,,,,0.0,,Missouri,0,,,,0.0,
+4,Arizona,2020-01-26,0,,,,0.0,,Missouri,0,,,,0.0,
+5,Arizona,2020-01-27,0,,,,0.0,,Missouri,0,,,,0.0,
+6,Arizona,2020-01-28,0,,,,0.0,,Missouri,0,,,,0.0,
+7,Arizona,2020-01-29,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+8,Arizona,2020-01-30,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+9,Arizona,2020-01-31,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+10,Arizona,2020-02-01,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+11,Arizona,2020-02-02,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+12,Arizona,2020-02-03,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+13,Arizona,2020-02-04,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+14,Arizona,2020-02-05,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+15,Arizona,2020-02-06,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+16,Arizona,2020-02-07,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+17,Arizona,2020-02-08,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+18,Arizona,2020-02-09,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+19,Arizona,2020-02-10,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+20,Arizona,2020-02-11,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+21,Arizona,2020-02-12,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+22,Arizona,2020-02-13,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+23,Arizona,2020-02-14,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+24,Arizona,2020-02-15,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+25,Arizona,2020-02-16,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+26,Arizona,2020-02-17,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+27,Arizona,2020-02-18,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+28,Arizona,2020-02-19,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+29,Arizona,2020-02-20,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+30,Arizona,2020-02-21,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+31,Arizona,2020-02-22,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+32,Arizona,2020-02-23,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+33,Arizona,2020-02-24,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+34,Arizona,2020-02-25,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+35,Arizona,2020-02-26,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+36,Arizona,2020-02-27,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+37,Arizona,2020-02-28,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+38,Arizona,2020-02-29,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+39,Arizona,2020-03-01,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+40,Arizona,2020-03-02,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+41,Arizona,2020-03-03,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+42,Arizona,2020-03-04,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+43,Arizona,2020-03-05,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+44,Arizona,2020-03-06,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+45,Arizona,2020-03-07,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+46,Arizona,2020-03-08,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+47,Arizona,2020-03-09,0,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+48,Arizona,2020-03-10,1,,,,1.0,0.0,Missouri,0,,,,0.0,0.0
+49,Arizona,2020-03-11,1,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+50,Arizona,2020-03-12,1,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+51,Arizona,2020-03-13,1,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+52,Arizona,2020-03-14,2,,,,1.0,0.0,Missouri,0,,,,0.0,0.0
+53,Arizona,2020-03-15,2,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+54,Arizona,2020-03-16,4,,,,2.0,1.0,Missouri,0,,,,0.0,0.0
+55,Arizona,2020-03-17,4,,,,0.0,0.0,Missouri,0,,,,0.0,0.0
+56,Arizona,2020-03-18,5,,,,1.0,1.0,Missouri,0,,,,0.0,0.0
+57,Arizona,2020-03-19,7,,,,2.0,1.0,Missouri,0,,,,0.0,0.0
+58,Arizona,2020-03-20,8,,,,1.0,1.0,Missouri,0,,,,0.0,0.0
+59,Arizona,2020-03-21,12,,,,4.0,1.0,Missouri,0,,,,0.0,0.0
+60,Arizona,2020-03-22,17,,,,5.0,2.0,Missouri,0,,,,0.0,0.0
+61,Arizona,2020-03-23,24,,,,7.0,3.0,Missouri,0,,,,0.0,0.0
+62,Arizona,2020-03-24,42,,,,18.0,5.0,Missouri,0,,,,0.0,0.0
+63,Arizona,2020-03-25,49,,,,7.0,6.0,Missouri,0,,,,0.0,0.0
+64,Arizona,2020-03-26,75,,,,26.0,10.0,Missouri,0,,,,0.0,0.0
+65,Arizona,2020-03-27,102,,,,27.0,13.0,Missouri,1,,,,1.0,0.0
+66,Arizona,2020-03-28,120,,,,18.0,15.0,Missouri,1,,,,0.0,0.0
+67,Arizona,2020-03-29,153,,,,33.0,19.0,Missouri,3,,,,2.0,0.0
+68,Arizona,2020-03-30,187,,,,34.0,23.0,Missouri,4,,,,1.0,1.0
+69,Arizona,2020-03-31,202,,,,15.0,23.0,Missouri,4,,,,0.0,1.0
+70,Arizona,2020-04-01,217,,,,15.0,24.0,Missouri,4,,,,0.0,1.0
+71,Arizona,2020-04-02,237,,,,20.0,23.0,Missouri,6,,,,2.0,1.0
+72,Arizona,2020-04-03,280,,,,43.0,25.0,Missouri,6,,,,0.0,1.0
+73,Arizona,2020-04-04,326,,,,46.0,29.0,Missouri,6,,,,0.0,1.0
+74,Arizona,2020-04-05,372,,,,46.0,31.0,Missouri,6,,,,0.0,0.0
+75,Arizona,2020-04-06,415,,,,43.0,33.0,Missouri,7,,,,1.0,0.0
+76,Arizona,2020-04-07,415,,,,0.0,30.0,Missouri,7,,,,0.0,0.0
+77,Arizona,2020-04-08,464,,,,49.0,35.0,Missouri,7,,,,0.0,0.0
+78,Arizona,2020-04-09,512,,,,48.0,39.0,Missouri,7,,,,0.0,0.0
+79,Arizona,2020-04-10,543,Pima County,2.0,,31.0,38.0,Missouri,7,Wright County,2.0,,0.0,0.0
+80,Arizona,2020-04-11,591,Pima County,2.0,,48.0,38.0,Missouri,7,Wright County,2.0,,0.0,0.0
+81,Arizona,2020-04-12,622,Pima County,2.0,,31.0,36.0,Missouri,7,Wright County,2.0,,0.0,0.0
+82,Arizona,2020-04-13,668,Pima County,2.0,,46.0,36.0,Missouri,8,Wright County,2.0,,1.0,0.0
+83,Arizona,2020-04-14,685,Pima County,2.0,,17.0,39.0,Missouri,9,Wright County,2.0,,1.0,0.0
+84,Arizona,2020-04-15,700,Pima County,2.0,,15.0,34.0,Missouri,9,Wright County,2.0,,0.0,0.0
+85,Arizona,2020-04-16,760,Pima County,2.0,,60.0,35.0,Missouri,9,Wright County,2.0,,0.0,0.0
+86,Arizona,2020-04-17,819,Pima County,2.0,,59.0,39.0,Missouri,9,Wright County,2.0,,0.0,0.0
+87,Arizona,2020-04-18,856,Pima County,2.0,,37.0,38.0,Missouri,9,Wright County,2.0,,0.0,0.0
+88,Arizona,2020-04-19,913,Pima County,2.0,,57.0,42.0,Missouri,9,Wright County,2.0,,0.0,0.0
+89,Arizona,2020-04-20,941,Pima County,2.0,,28.0,39.0,Missouri,9,Wright County,2.0,,0.0,0.0
+90,Arizona,2020-04-21,963,Pima County,2.0,,22.0,40.0,Missouri,9,Wright County,2.0,,0.0,0.0
+91,Arizona,2020-04-22,973,Pima County,2.0,,10.0,39.0,Missouri,9,Wright County,2.0,,0.0,0.0
+92,Arizona,2020-04-23,1026,Pima County,2.0,,53.0,38.0,Missouri,9,Wright County,2.0,,0.0,0.0
+93,Arizona,2020-04-24,1060,Pima County,2.0,,34.0,34.0,Missouri,9,Wright County,2.0,,0.0,0.0
+94,Arizona,2020-04-25,1090,Pima County,2.0,,30.0,33.0,Missouri,9,Wright County,2.0,,0.0,0.0
+95,Arizona,2020-04-26,1136,Pima County,2.0,,46.0,32.0,Missouri,9,Wright County,2.0,,0.0,0.0
+96,Arizona,2020-04-27,1164,Pima County,2.0,,28.0,32.0,Missouri,9,Wright County,2.0,,0.0,0.0
+97,Arizona,2020-04-28,1188,Pima County,2.0,,24.0,32.0,Missouri,9,Wright County,2.0,,0.0,0.0
+98,Arizona,2020-04-29,1215,Pima County,2.0,,27.0,35.0,Missouri,10,Wright County,2.0,,1.0,0.0
+99,Arizona,2020-04-30,1241,Pima County,2.0,,26.0,31.0,Missouri,10,Wright County,2.0,,0.0,0.0
+100,Arizona,2020-05-01,1267,Pima County,2.0,,26.0,30.0,Missouri,10,Wright County,2.0,,0.0,0.0
+101,Arizona,2020-05-02,1300,Pima County,2.0,,33.0,30.0,Missouri,10,Wright County,2.0,,0.0,0.0
+102,Arizona,2020-05-03,1326,Pima County,2.0,,26.0,27.0,Missouri,10,Wright County,2.0,,0.0,0.0
+103,Arizona,2020-05-04,1346,Pima County,2.0,,20.0,26.0,Missouri,10,Wright County,2.0,,0.0,0.0
+104,Arizona,2020-05-05,1379,Pima County,2.0,,33.0,27.0,Missouri,10,Wright County,2.0,,0.0,0.0
+105,Arizona,2020-05-06,1425,Pima County,2.0,,46.0,30.0,Missouri,10,Wright County,2.0,,0.0,0.0
+106,Arizona,2020-05-07,1465,Pima County,2.0,,40.0,32.0,Missouri,10,Wright County,2.0,,0.0,0.0
+107,Arizona,2020-05-08,1520,Pima County,2.0,,55.0,36.0,Missouri,10,Wright County,2.0,,0.0,0.0
+108,Arizona,2020-05-09,1554,Pima County,2.0,,34.0,36.0,Missouri,10,Wright County,2.0,,0.0,0.0
+109,Arizona,2020-05-10,1585,Pima County,2.0,,31.0,37.0,Missouri,10,Wright County,2.0,,0.0,0.0
+110,Arizona,2020-05-11,1602,Pima County,2.0,,17.0,37.0,Missouri,10,Wright County,2.0,,0.0,0.0
+111,Arizona,2020-05-12,1623,Pima County,2.0,,21.0,35.0,Missouri,10,Wright County,2.0,,0.0,0.0
+112,Arizona,2020-05-13,1661,Pima County,2.0,,38.0,34.0,Missouri,10,Wright County,2.0,,0.0,0.0
+113,Arizona,2020-05-14,1696,Pima County,2.0,,35.0,33.0,Missouri,10,Wright County,2.0,,0.0,0.0
+114,Arizona,2020-05-15,1750,Pima County,2.0,,54.0,33.0,Missouri,10,Wright County,2.0,,0.0,0.0
+115,Arizona,2020-05-16,1781,Pima County,2.0,,31.0,32.0,Missouri,10,Wright County,2.0,,0.0,0.0
+116,Arizona,2020-05-17,1814,Pima County,2.0,,33.0,33.0,Missouri,10,Wright County,2.0,,0.0,0.0
+117,Arizona,2020-05-18,1825,Pima County,2.0,,11.0,32.0,Missouri,10,Wright County,2.0,,0.0,0.0
+118,Arizona,2020-05-19,1888,Pima County,2.0,,63.0,38.0,Missouri,11,Wright County,2.0,,1.0,0.0
+119,Arizona,2020-05-20,1903,Pima County,2.0,,15.0,35.0,Missouri,11,Wright County,2.0,,0.0,0.0
+120,Arizona,2020-05-21,1944,Pima County,2.0,,41.0,35.0,Missouri,11,Wright County,2.0,,0.0,0.0
+121,Arizona,2020-05-22,1974,Pima County,2.0,,30.0,32.0,Missouri,11,Wright County,2.0,,0.0,0.0
+122,Arizona,2020-05-23,2002,Pima County,2.0,,28.0,32.0,Missouri,11,Wright County,2.0,,0.0,0.0
+123,Arizona,2020-05-24,2027,Pima County,2.0,,25.0,30.0,Missouri,11,Wright County,2.0,,0.0,0.0
+124,Arizona,2020-05-25,2046,Pima County,2.0,,19.0,32.0,Missouri,11,Wright County,2.0,,0.0,0.0
+125,Arizona,2020-05-26,2075,Pima County,2.0,,29.0,27.0,Missouri,11,Wright County,2.0,,0.0,0.0
+126,Arizona,2020-05-27,2119,Pima County,2.0,,44.0,31.0,Missouri,11,Wright County,2.0,,0.0,0.0
+127,Arizona,2020-05-28,2167,Pima County,2.0,,48.0,32.0,Missouri,11,Wright County,2.0,,0.0,0.0
+128,Arizona,2020-05-29,2234,Pima County,2.0,,67.0,37.0,Missouri,11,Wright County,2.0,,0.0,0.0
+129,Arizona,2020-05-30,2290,Pima County,2.0,,56.0,41.0,Missouri,11,Wright County,2.0,,0.0,0.0
+130,Arizona,2020-05-31,2368,Pima County,2.0,,78.0,49.0,Missouri,11,Wright County,2.0,,0.0,0.0
+131,Arizona,2020-06-01,2382,Pima County,2.0,,14.0,48.0,Missouri,11,Wright County,2.0,,0.0,0.0
+132,Arizona,2020-06-02,2496,Pima County,2.0,,114.0,60.0,Missouri,11,Wright County,2.0,,0.0,0.0
+133,Arizona,2020-06-03,2627,Pima County,2.0,,131.0,73.0,Missouri,11,Wright County,2.0,,0.0,0.0
+134,Arizona,2020-06-04,2669,Pima County,2.0,,42.0,72.0,Missouri,11,Wright County,2.0,,0.0,0.0
+135,Arizona,2020-06-05,2883,Pima County,2.0,,214.0,93.0,Missouri,11,Wright County,2.0,,0.0,0.0
+136,Arizona,2020-06-06,2950,Pima County,2.0,,67.0,94.0,Missouri,13,Wright County,2.0,,2.0,0.0
+137,Arizona,2020-06-07,3098,Pima County,2.0,,148.0,104.0,Missouri,14,Wright County,2.0,,1.0,0.0
+138,Arizona,2020-06-08,3154,Pima County,2.0,,56.0,110.0,Missouri,14,Wright County,2.0,,0.0,0.0
+139,Arizona,2020-06-09,3161,Pima County,2.0,,7.0,95.0,Missouri,14,Wright County,2.0,,0.0,0.0
+140,Arizona,2020-06-10,3350,Pima County,2.0,,189.0,103.0,Missouri,14,Wright County,2.0,,0.0,0.0
+141,Arizona,2020-06-11,3479,Pima County,2.0,,129.0,116.0,Missouri,14,Wright County,2.0,,0.0,0.0
+142,Arizona,2020-06-12,3628,Pima County,2.0,,149.0,106.0,Missouri,14,Wright County,2.0,,0.0,0.0
+143,Arizona,2020-06-13,3889,Pima County,2.0,,261.0,134.0,Missouri,14,Wright County,2.0,,0.0,0.0
+144,Arizona,2020-06-14,3910,Pima County,2.0,,21.0,116.0,Missouri,14,Wright County,2.0,,0.0,0.0
+145,Arizona,2020-06-15,3944,Pima County,2.0,,34.0,113.0,Missouri,14,Wright County,2.0,,0.0,0.0
+146,Arizona,2020-06-16,4329,Pima County,2.0,,385.0,167.0,Missouri,14,Wright County,2.0,,0.0,0.0
+147,Arizona,2020-06-17,4385,Pima County,2.0,,56.0,148.0,Missouri,14,Wright County,2.0,,0.0,0.0
+148,Arizona,2020-06-18,4682,Pima County,2.0,,297.0,172.0,Missouri,14,Wright County,2.0,,0.0,0.0
+149,Arizona,2020-06-19,5019,Pima County,2.0,,337.0,199.0,Missouri,14,Wright County,2.0,,0.0,0.0
+150,Arizona,2020-06-20,5313,Pima County,2.0,,294.0,203.0,Missouri,14,Wright County,2.0,,0.0,0.0
+151,Arizona,2020-06-21,5370,Pima County,2.0,,57.0,209.0,Missouri,14,Wright County,2.0,,0.0,0.0
+152,Arizona,2020-06-22,5587,Pima County,2.0,,217.0,235.0,Missouri,14,Wright County,2.0,,0.0,0.0
+153,Arizona,2020-06-23,6089,Pima County,2.0,,502.0,251.0,Missouri,14,Wright County,2.0,,0.0,0.0
+154,Arizona,2020-06-24,6318,Pima County,2.0,,229.0,276.0,Missouri,14,Wright County,2.0,,0.0,0.0
+155,Arizona,2020-06-25,6546,Pima County,2.0,,228.0,266.0,Missouri,14,Wright County,2.0,,0.0,0.0
+156,Arizona,2020-06-26,6836,Pima County,2.0,,290.0,260.0,Missouri,14,Wright County,2.0,,0.0,0.0
+157,Arizona,2020-06-27,7086,Pima County,2.0,,250.0,253.0,Missouri,14,Wright County,2.0,,0.0,0.0
+158,Arizona,2020-06-28,7525,Pima County,2.0,,439.0,308.0,Missouri,14,Wright County,2.0,,0.0,0.0
+159,Arizona,2020-06-29,7568,Pima County,2.0,,43.0,283.0,Missouri,15,Wright County,2.0,,1.0,0.0
+160,Arizona,2020-06-30,8004,Pima County,2.0,,436.0,274.0,Missouri,15,Wright County,2.0,,0.0,0.0
+161,Arizona,2020-07-01,8387,Pima County,2.0,,383.0,296.0,Missouri,15,Wright County,2.0,,0.0,0.0
+162,Arizona,2020-07-02,8577,Pima County,2.0,,190.0,290.0,Missouri,15,Wright County,2.0,,0.0,0.0
+163,Arizona,2020-07-03,9024,Pima County,2.0,,447.0,313.0,Missouri,20,Wright County,2.0,,5.0,1.0
+164,Arizona,2020-07-04,9313,Pima County,2.0,,289.0,318.0,Missouri,22,Wright County,2.0,,2.0,1.0
+165,Arizona,2020-07-05,9621,Pima County,2.0,,308.0,299.0,Missouri,26,Wright County,2.0,,4.0,2.0
+166,Arizona,2020-07-06,9873,Pima County,2.0,,252.0,329.0,Missouri,28,Wright County,2.0,,2.0,2.0
+167,Arizona,2020-07-07,10184,Pima County,2.0,,311.0,311.0,Missouri,29,Wright County,2.0,,1.0,2.0
+168,Arizona,2020-07-08,10485,Pima County,2.0,,301.0,300.0,Missouri,30,Wright County,2.0,,1.0,2.0
+169,Arizona,2020-07-09,10835,Pima County,2.0,,350.0,323.0,Missouri,31,Wright County,2.0,,1.0,2.0
+170,Arizona,2020-07-10,11172,Pima County,2.0,,337.0,307.0,Missouri,36,Wright County,2.0,,5.0,2.0
+171,Arizona,2020-07-11,11443,Pima County,2.0,,271.0,304.0,Missouri,36,Wright County,2.0,,0.0,2.0
+172,Arizona,2020-07-12,11767,Pima County,2.0,,324.0,307.0,Missouri,38,Wright County,2.0,,2.0,2.0
+173,Arizona,2020-07-13,11856,Pima County,2.0,,89.0,283.0,Missouri,39,Wright County,2.0,,1.0,2.0
+174,Arizona,2020-07-14,12114,Pima County,2.0,,258.0,276.0,Missouri,45,Wright County,2.0,,6.0,2.0
+175,Arizona,2020-07-15,12406,Pima County,2.0,,292.0,274.0,Missouri,45,Wright County,2.0,,0.0,2.0
+176,Arizona,2020-07-16,12697,Pima County,2.0,,291.0,266.0,Missouri,48,Wright County,2.0,,3.0,2.0
+177,Arizona,2020-07-17,13058,Pima County,2.0,,361.0,269.0,Missouri,49,Wright County,2.0,,1.0,2.0
+178,Arizona,2020-07-18,13270,Pima County,2.0,,212.0,261.0,Missouri,52,Wright County,2.0,,3.0,2.0
+179,Arizona,2020-07-19,13449,Pima County,2.0,,179.0,240.0,Missouri,51,Wright County,2.0,,-1.0,2.0
+180,Arizona,2020-07-20,13594,Pima County,2.0,,145.0,248.0,Missouri,51,Wright County,2.0,,0.0,2.0
+181,Arizona,2020-07-21,13848,Pima County,2.0,,254.0,248.0,Missouri,51,Wright County,2.0,,0.0,1.0
+182,Arizona,2020-07-22,13990,Pima County,2.0,,142.0,226.0,Missouri,52,Wright County,2.0,,1.0,1.0
+183,Arizona,2020-07-23,14143,Pima County,2.0,,153.0,207.0,Missouri,52,Wright County,2.0,,0.0,1.0
+184,Arizona,2020-07-24,14428,Pima County,2.0,,285.0,196.0,Missouri,52,Wright County,2.0,,0.0,0.0
+185,Arizona,2020-07-25,14800,Pima County,2.0,,372.0,219.0,Missouri,53,Wright County,2.0,,1.0,0.0
+186,Arizona,2020-07-26,14963,Pima County,2.0,,163.0,216.0,Missouri,54,Wright County,2.0,,1.0,0.0
+187,Arizona,2020-07-27,15109,Pima County,2.0,,146.0,216.0,Missouri,54,Wright County,2.0,,0.0,0.0
+188,Arizona,2020-07-28,15292,Pima County,2.0,,183.0,206.0,Missouri,54,Wright County,2.0,,0.0,0.0
+189,Arizona,2020-07-29,15601,Pima County,2.0,,309.0,230.0,Missouri,55,Wright County,2.0,,1.0,0.0
+190,Arizona,2020-07-30,15884,Pima County,2.0,,283.0,249.0,Missouri,54,Wright County,2.0,,-1.0,0.0
+191,Arizona,2020-07-31,16167,Pima County,2.0,,283.0,248.0,Missouri,56,Wright County,2.0,,2.0,1.0
+192,Arizona,2020-08-01,16475,Pima County,2.0,,308.0,239.0,Missouri,58,Wright County,2.0,,2.0,1.0
+193,Arizona,2020-08-02,16655,Pima County,2.0,,180.0,242.0,Missouri,58,Wright County,2.0,,0.0,1.0
+194,Arizona,2020-08-03,16741,Pima County,2.0,,86.0,233.0,Missouri,58,Wright County,2.0,,0.0,1.0
+195,Arizona,2020-08-04,16809,Pima County,2.0,,68.0,217.0,Missouri,58,Wright County,2.0,,0.0,1.0
+196,Arizona,2020-08-05,16964,Pima County,2.0,,155.0,195.0,Missouri,58,Wright County,2.0,,0.0,0.0
+197,Arizona,2020-08-06,17293,Pima County,2.0,,329.0,201.0,Missouri,60,Wright County,2.0,,2.0,1.0
+198,Arizona,2020-08-07,17497,Pima County,2.0,,204.0,190.0,Missouri,61,Wright County,2.0,,1.0,1.0
+199,Arizona,2020-08-08,17728,Pima County,2.0,,231.0,179.0,Missouri,61,Wright County,2.0,,0.0,0.0
+200,Arizona,2020-08-09,17880,Pima County,2.0,,152.0,175.0,Missouri,62,Wright County,2.0,,1.0,1.0
+201,Arizona,2020-08-10,17996,Pima County,2.0,,116.0,179.0,Missouri,62,Wright County,2.0,,0.0,1.0
+202,Arizona,2020-08-11,18381,Pima County,2.0,,385.0,225.0,Missouri,62,Wright County,2.0,,0.0,1.0
+203,Arizona,2020-08-12,18508,Pima County,2.0,,127.0,221.0,Missouri,65,Wright County,2.0,,3.0,1.0
+204,Arizona,2020-08-13,19001,Pima County,2.0,,493.0,244.0,Missouri,67,Wright County,2.0,,2.0,1.0
+205,Arizona,2020-08-14,19164,Pima County,2.0,,163.0,238.0,Missouri,70,Wright County,2.0,,3.0,1.0
+206,Arizona,2020-08-15,19313,Pima County,2.0,,149.0,226.0,Missouri,73,Wright County,2.0,,3.0,2.0
+207,Arizona,2020-08-16,19581,Pima County,2.0,,268.0,243.0,Missouri,74,Wright County,2.0,,1.0,2.0
+208,Arizona,2020-08-17,19743,Pima County,2.0,,162.0,250.0,Missouri,73,Wright County,2.0,,-1.0,2.0
+209,Arizona,2020-08-18,19976,Pima County,2.0,,233.0,228.0,Missouri,73,Wright County,2.0,,0.0,2.0
+210,Arizona,2020-08-19,20047,Pima County,2.0,,71.0,220.0,Missouri,76,Wright County,2.0,,3.0,2.0
+211,Arizona,2020-08-20,20139,Pima County,2.0,,92.0,163.0,Missouri,77,Wright County,2.0,,1.0,1.0
+212,Arizona,2020-08-21,20173,Pima County,2.0,,34.0,144.0,Missouri,76,Wright County,2.0,,-1.0,1.0
+213,Arizona,2020-08-22,20446,Pima County,2.0,,273.0,162.0,Missouri,77,Wright County,2.0,,1.0,1.0
+214,Arizona,2020-08-23,20475,Pima County,2.0,,29.0,128.0,Missouri,78,Wright County,2.0,,1.0,1.0
+215,Arizona,2020-08-24,20535,Pima County,2.0,,60.0,113.0,Missouri,78,Wright County,2.0,,0.0,1.0
+216,Arizona,2020-08-25,20919,Pima County,2.0,,384.0,135.0,Missouri,79,Wright County,2.0,,1.0,1.0
+217,Arizona,2020-08-26,20911,Pima County,2.0,,-8.0,123.0,Missouri,85,Wright County,2.0,,6.0,1.0
+218,Arizona,2020-08-27,21001,Pima County,2.0,,90.0,123.0,Missouri,88,Wright County,2.0,,3.0,2.0
+219,Arizona,2020-08-28,21072,Pima County,2.0,,71.0,128.0,Missouri,89,Wright County,2.0,,1.0,2.0
+220,Arizona,2020-08-29,21133,Pima County,2.0,,61.0,98.0,Missouri,88,Wright County,2.0,,-1.0,2.0
+221,Arizona,2020-08-30,21189,Pima County,2.0,,56.0,102.0,Missouri,89,Wright County,2.0,,1.0,2.0
+222,Arizona,2020-08-31,21221,Pima County,2.0,,32.0,98.0,Missouri,89,Wright County,2.0,,0.0,2.0
+223,Arizona,2020-09-01,21286,Pima County,2.0,,65.0,52.0,Missouri,91,Wright County,2.0,,2.0,2.0
+224,Arizona,2020-09-02,21294,Pima County,2.0,,8.0,55.0,Missouri,91,Wright County,2.0,,0.0,1.0
+225,Arizona,2020-09-03,21443,Pima County,2.0,,149.0,63.0,Missouri,95,Wright County,2.0,,4.0,1.0
+226,Arizona,2020-09-04,21574,Pima County,2.0,,131.0,72.0,Missouri,96,Wright County,2.0,,1.0,1.0
+227,Arizona,2020-09-05,21834,Pima County,2.0,,260.0,100.0,Missouri,104,Wright County,2.0,,8.0,2.0
+228,Arizona,2020-09-06,21888,Pima County,2.0,,54.0,100.0,Missouri,108,Wright County,2.0,,4.0,3.0
+229,Arizona,2020-09-07,22000,Pima County,2.0,,112.0,111.0,Missouri,108,Wright County,2.0,,0.0,3.0
+230,Arizona,2020-09-08,22035,Pima County,2.0,,35.0,107.0,Missouri,108,Wright County,2.0,,0.0,2.0
+231,Arizona,2020-09-09,22071,Pima County,2.0,,36.0,111.0,Missouri,115,Wright County,2.0,,7.0,3.0
+232,Arizona,2020-09-10,22140,Pima County,2.0,,69.0,100.0,Missouri,118,Wright County,2.0,,3.0,3.0
+233,Arizona,2020-09-11,22247,Pima County,2.0,,107.0,96.0,Missouri,127,Wright County,2.0,,9.0,4.0
+234,Arizona,2020-09-12,22357,Pima County,2.0,,110.0,75.0,Missouri,133,Wright County,2.0,,6.0,4.0
+235,Arizona,2020-09-13,22418,Pima County,2.0,,61.0,76.0,Missouri,147,Wright County,2.0,,14.0,6.0
+236,Arizona,2020-09-14,22511,Pima County,2.0,,93.0,73.0,Missouri,158,Wright County,2.0,,11.0,7.0
+237,Arizona,2020-09-15,22643,Pima County,2.0,,132.0,87.0,Missouri,165,Wright County,2.0,,7.0,8.0
+238,Arizona,2020-09-16,22887,Pima County,2.0,,244.0,117.0,Missouri,175,Wright County,2.0,,10.0,9.0
+239,Arizona,2020-09-17,23563,Pima County,2.0,,676.0,203.0,Missouri,197,Wright County,2.0,,22.0,11.0
+240,Arizona,2020-09-18,24313,Pima County,2.0,,750.0,295.0,Missouri,217,Wright County,2.0,,20.0,13.0
+241,Arizona,2020-09-19,24511,Pima County,2.0,,198.0,308.0,Missouri,231,Wright County,2.0,,14.0,14.0
+242,Arizona,2020-09-20,24610,Pima County,2.0,,99.0,313.0,Missouri,248,Wright County,2.0,,17.0,14.0
+243,Arizona,2020-09-21,24647,Pima County,2.0,,37.0,305.0,Missouri,252,Wright County,2.0,,4.0,13.0
+244,Arizona,2020-09-22,24798,Pima County,2.0,,151.0,308.0,Missouri,259,Wright County,2.0,,7.0,13.0
+245,Arizona,2020-09-23,25004,Pima County,2.0,,206.0,302.0,Missouri,278,Wright County,2.0,,19.0,15.0
+246,Arizona,2020-09-24,25140,Pima County,2.0,,136.0,225.0,Missouri,293,Wright County,2.0,,15.0,14.0
+247,Arizona,2020-09-25,25265,Pima County,2.0,,125.0,136.0,Missouri,305,Wright County,2.0,,12.0,13.0
+248,Arizona,2020-09-26,25329,Pima County,2.0,,64.0,117.0,Missouri,333,Wright County,2.0,,28.0,15.0
+249,Arizona,2020-09-27,25412,Pima County,2.0,,83.0,115.0,Missouri,352,Wright County,2.0,,19.0,15.0
+250,Arizona,2020-09-28,25445,Pima County,2.0,,33.0,114.0,Missouri,359,Wright County,2.0,,7.0,15.0
+251,Arizona,2020-09-29,25569,Pima County,2.0,,124.0,110.0,Missouri,359,Wright County,2.0,,0.0,14.0
+252,Arizona,2020-09-30,25628,Pima County,2.0,,59.0,89.0,Missouri,359,Wright County,2.0,,0.0,12.0
+253,Arizona,2020-10-01,25706,Pima County,2.0,,78.0,81.0,Missouri,359,Wright County,2.0,,0.0,9.0
+254,Arizona,2020-10-02,25784,Pima County,2.0,,78.0,74.0,Missouri,399,Wright County,2.0,,40.0,13.0
+255,Arizona,2020-10-03,25855,Pima County,2.0,,71.0,75.0,Missouri,417,Wright County,2.0,,18.0,12.0
+256,Arizona,2020-10-04,25925,Pima County,2.0,,70.0,73.0,Missouri,428,Wright County,2.0,,11.0,11.0
+257,Arizona,2020-10-05,25980,Pima County,2.0,,55.0,76.0,Missouri,436,Wright County,2.0,,8.0,11.0
+258,Arizona,2020-10-06,26052,Pima County,2.0,,72.0,69.0,Missouri,440,Wright County,2.0,,4.0,12.0
+259,Arizona,2020-10-07,26092,Pima County,2.0,,40.0,66.0,Missouri,444,Wright County,2.0,,4.0,12.0
+260,Arizona,2020-10-08,26217,Pima County,2.0,,125.0,73.0,Missouri,457,Wright County,2.0,,13.0,14.0
+261,Arizona,2020-10-09,26287,Pima County,2.0,,70.0,72.0,Missouri,468,Wright County,2.0,,11.0,10.0
+262,Arizona,2020-10-10,26363,Pima County,2.0,,76.0,73.0,Missouri,486,Wright County,2.0,,18.0,10.0
+263,Arizona,2020-10-11,26402,Pima County,2.0,,39.0,68.0,Missouri,486,Wright County,2.0,,0.0,8.0
+264,Arizona,2020-10-12,26465,Pima County,2.0,,63.0,69.0,Missouri,486,Wright County,2.0,,0.0,7.0
+265,Arizona,2020-10-13,26516,Pima County,2.0,,51.0,66.0,Missouri,486,Wright County,2.0,,0.0,7.0
+266,Arizona,2020-10-14,26632,Pima County,2.0,,116.0,77.0,Missouri,521,Wright County,2.0,,35.0,11.0
+267,Arizona,2020-10-15,26727,Pima County,2.0,,95.0,73.0,Missouri,530,Wright County,2.0,,9.0,10.0
+268,Arizona,2020-10-16,26769,Pima County,2.0,,42.0,69.0,Missouri,542,Wright County,2.0,,12.0,11.0
+269,Arizona,2020-10-17,26843,Pima County,2.0,,74.0,69.0,Missouri,546,Wright County,2.0,,4.0,9.0
+270,Arizona,2020-10-18,26911,Pima County,2.0,,68.0,73.0,Missouri,556,Wright County,2.0,,10.0,10.0
+271,Arizona,2020-10-19,26955,Pima County,2.0,,44.0,70.0,Missouri,560,Wright County,2.0,,4.0,11.0
+272,Arizona,2020-10-20,27019,Pima County,2.0,,64.0,72.0,Missouri,563,Wright County,2.0,,3.0,11.0
+273,Arizona,2020-10-21,27128,Pima County,2.0,,109.0,71.0,Missouri,565,Wright County,2.0,,2.0,6.0
+274,Arizona,2020-10-22,27208,Pima County,2.0,,80.0,69.0,Missouri,572,Wright County,2.0,,7.0,6.0
+275,Arizona,2020-10-23,27297,Pima County,2.0,,89.0,75.0,Missouri,574,Wright County,2.0,,2.0,5.0
+276,Arizona,2020-10-24,27417,Pima County,2.0,,120.0,82.0,Missouri,582,Wright County,2.0,,8.0,5.0
+277,Arizona,2020-10-25,27484,Pima County,2.0,,67.0,82.0,Missouri,585,Wright County,2.0,,3.0,4.0
+278,Arizona,2020-10-26,27575,Pima County,2.0,,91.0,89.0,Missouri,586,Wright County,2.0,,1.0,4.0
+279,Arizona,2020-10-27,27703,Pima County,2.0,,128.0,98.0,Missouri,589,Wright County,2.0,,3.0,4.0
+280,Arizona,2020-10-28,27962,Pima County,2.0,,259.0,119.0,Missouri,591,Wright County,2.0,,2.0,4.0
+281,Arizona,2020-10-29,28067,Pima County,2.0,,105.0,123.0,Missouri,591,Wright County,2.0,,0.0,3.0
+282,Arizona,2020-10-30,28296,Pima County,2.0,,229.0,143.0,Missouri,607,Wright County,2.0,,16.0,5.0
+283,Arizona,2020-10-31,28598,Pima County,2.0,,302.0,169.0,Missouri,612,Wright County,2.0,,5.0,4.0
+284,Arizona,2020-11-01,28824,Pima County,2.0,,226.0,191.0,Missouri,620,Wright County,2.0,,8.0,5.0
+285,Arizona,2020-11-02,28914,Pima County,2.0,,90.0,191.0,Missouri,626,Wright County,2.0,,6.0,6.0
+286,Arizona,2020-11-03,29141,Pima County,2.0,,227.0,205.0,Missouri,627,Wright County,2.0,,1.0,5.0
+287,Arizona,2020-11-04,29291,Pima County,2.0,,150.0,190.0,Missouri,629,Wright County,2.0,,2.0,5.0
+288,Arizona,2020-11-05,29456,Pima County,2.0,,165.0,198.0,Missouri,635,Wright County,2.0,,6.0,6.0
+289,Arizona,2020-11-06,29764,Pima County,2.0,,308.0,210.0,Missouri,639,Wright County,2.0,,4.0,5.0
+290,Arizona,2020-11-07,30066,Pima County,2.0,,302.0,210.0,Missouri,644,Wright County,2.0,,5.0,5.0
+291,Arizona,2020-11-08,30419,Pima County,2.0,,353.0,228.0,Missouri,646,Wright County,2.0,,2.0,4.0
+292,Arizona,2020-11-09,30493,Pima County,2.0,,74.0,226.0,Missouri,651,Wright County,2.0,,5.0,4.0
+293,Arizona,2020-11-10,31013,Pima County,2.0,,520.0,267.0,Missouri,661,Wright County,2.0,,10.0,5.0
+294,Arizona,2020-11-11,31204,Pima County,2.0,,191.0,273.0,Missouri,663,Wright County,2.0,,2.0,5.0
+295,Arizona,2020-11-12,31538,Pima County,2.0,,334.0,297.0,Missouri,674,Wright County,2.0,,11.0,6.0
+296,Arizona,2020-11-13,31874,Pima County,2.0,,336.0,301.0,Missouri,676,Wright County,2.0,,2.0,5.0
+297,Arizona,2020-11-14,32207,Pima County,2.0,,333.0,306.0,Missouri,687,Wright County,2.0,,11.0,6.0
+298,Arizona,2020-11-15,32802,Pima County,2.0,,595.0,340.0,Missouri,687,Wright County,2.0,,0.0,6.0
+299,Arizona,2020-11-16,33087,Pima County,2.0,,285.0,371.0,Missouri,691,Wright County,2.0,,4.0,6.0
+300,Arizona,2020-11-17,33444,Pima County,2.0,,357.0,347.0,Missouri,702,Wright County,2.0,,11.0,6.0
+301,Arizona,2020-11-18,33822,Pima County,2.0,,378.0,374.0,Missouri,705,Wright County,2.0,,3.0,6.0
+302,Arizona,2020-11-19,34423,Pima County,2.0,,601.0,412.0,Missouri,707,Wright County,2.0,,2.0,5.0
+303,Arizona,2020-11-20,34985,Pima County,2.0,,562.0,444.0,Missouri,717,Wright County,2.0,,10.0,6.0
+304,Arizona,2020-11-21,35237,Pima County,2.0,,252.0,433.0,Missouri,724,Wright County,2.0,,7.0,5.0
+305,Arizona,2020-11-22,36115,Pima County,2.0,,878.0,473.0,Missouri,729,Wright County,2.0,,5.0,6.0
+306,Arizona,2020-11-23,36659,Pima County,2.0,,544.0,510.0,Missouri,733,Wright County,2.0,,4.0,6.0
+307,Arizona,2020-11-24,36986,Pima County,2.0,,327.0,506.0,Missouri,742,Wright County,2.0,,9.0,6.0
+308,Arizona,2020-11-25,37518,Pima County,2.0,,532.0,528.0,Missouri,747,Wright County,2.0,,5.0,6.0
+309,Arizona,2020-11-26,37977,Pima County,2.0,,459.0,508.0,Missouri,755,Wright County,2.0,,8.0,7.0
+310,Arizona,2020-11-27,38668,Pima County,2.0,,691.0,526.0,Missouri,758,Wright County,2.0,,3.0,6.0
+311,Arizona,2020-11-28,39298,Pima County,2.0,,630.0,580.0,Missouri,758,Wright County,2.0,,0.0,5.0
+312,Arizona,2020-11-29,39813,Pima County,2.0,,515.0,528.0,Missouri,766,Wright County,2.0,,8.0,5.0
+313,Arizona,2020-11-30,39859,Pima County,2.0,,46.0,457.0,Missouri,779,Wright County,2.0,,13.0,7.0
+314,Arizona,2020-12-01,40803,Pima County,2.0,,944.0,545.0,Missouri,782,Wright County,2.0,,3.0,6.0
+315,Arizona,2020-12-02,41313,Pima County,2.0,,510.0,542.0,Missouri,784,Wright County,2.0,,2.0,5.0
+316,Arizona,2020-12-03,41882,Pima County,2.0,,569.0,558.0,Missouri,794,Wright County,2.0,,10.0,6.0
+317,Arizona,2020-12-04,42698,Pima County,2.0,,816.0,576.0,Missouri,806,Wright County,2.0,,12.0,7.0
+318,Arizona,2020-12-05,43930,Pima County,2.0,,1232.0,662.0,Missouri,825,Wright County,2.0,,19.0,10.0
+319,Arizona,2020-12-06,45166,Pima County,2.0,,1236.0,765.0,Missouri,828,Wright County,2.0,,3.0,9.0
+320,Arizona,2020-12-07,45892,Pima County,2.0,,726.0,862.0,Missouri,834,Wright County,2.0,,6.0,8.0
+321,Arizona,2020-12-08,46849,Pima County,2.0,,957.0,864.0,Missouri,843,Wright County,2.0,,9.0,9.0
+322,Arizona,2020-12-09,47570,Pima County,2.0,,721.0,894.0,Missouri,851,Wright County,2.0,,8.0,10.0
+323,Arizona,2020-12-10,48436,Pima County,2.0,,866.0,936.0,Missouri,853,Wright County,2.0,,2.0,8.0
+324,Arizona,2020-12-11,49637,Pima County,2.0,,1201.0,991.0,Missouri,853,Wright County,2.0,,0.0,7.0
+325,Arizona,2020-12-12,50852,Pima County,2.0,,1215.0,989.0,Missouri,888,Wright County,2.0,,35.0,9.0
+326,Arizona,2020-12-13,51647,Pima County,2.0,,795.0,926.0,Missouri,893,Wright County,2.0,,5.0,9.0
+327,Arizona,2020-12-14,53448,Pima County,2.0,,1801.0,1079.0,Missouri,899,Wright County,2.0,,6.0,9.0
+328,Arizona,2020-12-15,54246,Pima County,2.0,,798.0,1057.0,Missouri,904,Wright County,2.0,,5.0,9.0
+329,Arizona,2020-12-16,54957,Pima County,2.0,,711.0,1055.0,Missouri,922,Wright County,2.0,,18.0,10.0
+330,Arizona,2020-12-17,55801,Pima County,2.0,,844.0,1052.0,Missouri,935,Wright County,2.0,,13.0,12.0
+331,Arizona,2020-12-18,57250,Pima County,2.0,,1449.0,1088.0,Missouri,946,Wright County,2.0,,11.0,13.0
+332,Arizona,2020-12-19,58046,Pima County,2.0,,796.0,1028.0,Missouri,950,Wright County,2.0,,4.0,9.0
+333,Arizona,2020-12-20,59116,Pima County,2.0,,1070.0,1067.0,Missouri,953,Wright County,2.0,,3.0,9.0
+334,Arizona,2020-12-21,60360,Pima County,2.0,,1244.0,987.0,Missouri,968,Wright County,2.0,,15.0,10.0
+335,Arizona,2020-12-22,61344,Pima County,2.0,,984.0,1014.0,Missouri,972,Wright County,2.0,,4.0,10.0
+336,Arizona,2020-12-23,62159,Pima County,2.0,,815.0,1029.0,Missouri,978,Wright County,2.0,,6.0,8.0
+337,Arizona,2020-12-24,63472,Pima County,2.0,,1313.0,1096.0,Missouri,994,Wright County,2.0,,16.0,8.0
+338,Arizona,2020-12-25,64715,Pima County,2.0,,1243.0,1066.0,Missouri,999,Wright County,2.0,,5.0,8.0
+339,Arizona,2020-12-26,65648,Pima County,2.0,,933.0,1086.0,Missouri,1008,Wright County,2.0,,9.0,8.0
+340,Arizona,2020-12-27,65915,Pima County,2.0,,267.0,971.0,Missouri,1013,Wright County,2.0,,5.0,9.0
+341,Arizona,2020-12-28,67360,Pima County,2.0,,1445.0,1000.0,Missouri,1024,Wright County,2.0,,11.0,8.0
+342,Arizona,2020-12-29,67679,Pima County,2.0,,319.0,905.0,Missouri,1030,Wright County,2.0,,6.0,8.0
+343,Arizona,2020-12-30,68437,Pima County,2.0,,758.0,897.0,Missouri,1034,Wright County,2.0,,4.0,8.0
+344,Arizona,2020-12-31,69522,Pima County,2.0,,1085.0,864.0,Missouri,1068,Wright County,2.0,,34.0,11.0
+345,Arizona,2021-01-01,70563,Pima County,2.0,,1041.0,835.0,Missouri,1096,Wright County,2.0,,28.0,14.0
+346,Arizona,2021-01-02,71894,Pima County,2.0,,1331.0,892.0,Missouri,1104,Wright County,2.0,,8.0,14.0
+347,Arizona,2021-01-03,74108,Pima County,2.0,,2214.0,1170.0,Missouri,1117,Wright County,2.0,,13.0,15.0
+348,Arizona,2021-01-04,74963,Pima County,2.0,,855.0,1086.0,Missouri,1121,Wright County,2.0,,4.0,14.0
+349,Arizona,2021-01-05,75584,Pima County,2.0,,621.0,1129.0,Missouri,1138,Wright County,2.0,,17.0,15.0
+350,Arizona,2021-01-06,76243,Pima County,2.0,,659.0,1115.0,Missouri,1145,Wright County,2.0,,7.0,16.0
+351,Arizona,2021-01-07,77854,Pima County,2.0,,1611.0,1190.0,Missouri,1157,Wright County,2.0,,12.0,13.0
+352,Arizona,2021-01-08,79190,Pima County,2.0,,1336.0,1232.0,Missouri,1176,Wright County,2.0,,19.0,11.0
+353,Arizona,2021-01-09,80642,Pima County,2.0,,1452.0,1250.0,Missouri,1194,Wright County,2.0,,18.0,13.0
+354,Arizona,2021-01-10,82197,Pima County,2.0,,1555.0,1156.0,Missouri,1196,Wright County,2.0,,2.0,11.0
+355,Arizona,2021-01-11,83386,Pima County,2.0,,1189.0,1203.0,Missouri,1210,Wright County,2.0,,14.0,13.0
+356,Arizona,2021-01-12,84426,Pima County,2.0,,1040.0,1263.0,Missouri,1221,Wright County,2.0,,11.0,12.0
+357,Arizona,2021-01-13,85256,Pima County,2.0,,830.0,1288.0,Missouri,1223,Wright County,2.0,,2.0,11.0
+358,Arizona,2021-01-14,86345,Pima County,2.0,,1089.0,1213.0,Missouri,1235,Wright County,2.0,,12.0,11.0
+359,Arizona,2021-01-15,87687,Pima County,2.0,,1342.0,1214.0,Missouri,1245,Wright County,2.0,,10.0,10.0
+360,Arizona,2021-01-16,88878,Pima County,2.0,,1191.0,1177.0,Missouri,1255,Wright County,2.0,,10.0,9.0
+361,Arizona,2021-01-17,90084,Pima County,2.0,,1206.0,1127.0,Missouri,1263,Wright County,2.0,,8.0,10.0
+362,Arizona,2021-01-18,90765,Pima County,2.0,,681.0,1054.0,Missouri,1269,Wright County,2.0,,6.0,8.0
+363,Arizona,2021-01-19,91740,Pima County,2.0,,975.0,1045.0,Missouri,1273,Wright County,2.0,,4.0,7.0
+364,Arizona,2021-01-20,92519,Pima County,2.0,,779.0,1038.0,Missouri,1276,Wright County,2.0,,3.0,8.0
+365,Arizona,2021-01-21,93839,Pima County,2.0,,1320.0,1071.0,Missouri,1281,Wright County,2.0,,5.0,7.0
+366,Arizona,2021-01-22,94697,Pima County,2.0,,858.0,1001.0,Missouri,1289,Wright County,2.0,,8.0,6.0
+367,Arizona,2021-01-23,95720,Pima County,2.0,,1023.0,977.0,Missouri,1292,Wright County,2.0,,3.0,5.0
+368,Arizona,2021-01-24,96738,Pima County,2.0,,1018.0,951.0,Missouri,1295,Wright County,2.0,,3.0,5.0
+369,Arizona,2021-01-25,97474,Pima County,2.0,,736.0,958.0,Missouri,1298,Wright County,2.0,,3.0,4.0
+370,Arizona,2021-01-26,98034,Pima County,2.0,,560.0,899.0,Missouri,1300,Wright County,2.0,,2.0,4.0
+371,Arizona,2021-01-27,98743,Pima County,2.0,,709.0,889.0,Missouri,1304,Wright County,2.0,,4.0,4.0
+372,Arizona,2021-01-28,99441,Pima County,2.0,,698.0,800.0,Missouri,1310,Wright County,2.0,,6.0,4.0
+373,Arizona,2021-01-29,100272,Pima County,2.0,,831.0,796.0,Missouri,1319,Wright County,2.0,,9.0,4.0
+374,Arizona,2021-01-30,100810,Pima County,2.0,,538.0,727.0,Missouri,1326,Wright County,2.0,,7.0,5.0
+375,Arizona,2021-01-31,101457,Pima County,2.0,,647.0,674.0,Missouri,1329,Wright County,2.0,,3.0,5.0
+376,Arizona,2021-02-01,101961,Pima County,2.0,,504.0,641.0,Missouri,1331,Wright County,2.0,,2.0,5.0
+377,Arizona,2021-02-02,102320,Pima County,2.0,,359.0,612.0,Missouri,1331,Wright County,2.0,,0.0,4.0
+378,Arizona,2021-02-03,102712,Pima County,2.0,,392.0,567.0,Missouri,1333,Wright County,2.0,,2.0,4.0
+379,Arizona,2021-02-04,103448,Pima County,2.0,,736.0,572.0,Missouri,1336,Wright County,2.0,,3.0,4.0
+380,Arizona,2021-02-05,103932,Pima County,2.0,,484.0,523.0,Missouri,1345,Wright County,2.0,,9.0,4.0
+381,Arizona,2021-02-06,104497,Pima County,2.0,,565.0,527.0,Missouri,1348,Wright County,2.0,,3.0,3.0
+382,Arizona,2021-02-07,104675,Pima County,2.0,,178.0,460.0,Missouri,1350,Wright County,2.0,,2.0,3.0
+383,Arizona,2021-02-08,104921,Pima County,2.0,,246.0,423.0,Missouri,1351,Wright County,2.0,,1.0,3.0
+384,Arizona,2021-02-09,105606,Pima County,2.0,,685.0,469.0,Missouri,1351,Wright County,2.0,,0.0,3.0
+385,Arizona,2021-02-10,105829,Pima County,2.0,,223.0,445.0,Missouri,1356,Wright County,2.0,,5.0,3.0
+386,Arizona,2021-02-11,105909,Pima County,2.0,,80.0,352.0,Missouri,1360,Wright County,2.0,,4.0,3.0
+387,Arizona,2021-02-12,106253,Pima County,2.0,,344.0,332.0,Missouri,1361,Wright County,2.0,,1.0,2.0
+388,Arizona,2021-02-13,106543,Pima County,2.0,,290.0,292.0,Missouri,1361,Wright County,2.0,,0.0,2.0
+389,Arizona,2021-02-14,106812,Pima County,2.0,,269.0,305.0,Missouri,1361,Wright County,2.0,,0.0,2.0
+390,Arizona,2021-02-15,107058,Pima County,2.0,,246.0,305.0,Missouri,1361,Wright County,2.0,,0.0,1.0
+391,Arizona,2021-02-16,107213,Pima County,2.0,,155.0,230.0,Missouri,1362,Wright County,2.0,,1.0,2.0
+392,Arizona,2021-02-17,107401,Pima County,2.0,,188.0,225.0,Missouri,1363,Wright County,2.0,,1.0,1.0
+393,Arizona,2021-02-18,107582,Pima County,2.0,,181.0,239.0,Missouri,1363,Wright County,2.0,,0.0,0.0
+394,Arizona,2021-02-19,107793,Pima County,2.0,,211.0,220.0,Missouri,1364,Wright County,2.0,,1.0,0.0
+395,Arizona,2021-02-20,108094,Pima County,2.0,,301.0,222.0,Missouri,1365,Wright County,2.0,,1.0,1.0
+396,Arizona,2021-02-21,108341,Pima County,2.0,,247.0,218.0,Missouri,1365,Wright County,2.0,,0.0,1.0
+397,Arizona,2021-02-22,108479,Pima County,2.0,,138.0,203.0,Missouri,1366,Wright County,2.0,,1.0,1.0
+398,Arizona,2021-02-23,108630,Pima County,2.0,,151.0,202.0,Missouri,1366,Wright County,2.0,,0.0,1.0
+399,Arizona,2021-02-24,108772,Pima County,2.0,,142.0,196.0,Missouri,1365,Wright County,2.0,,-1.0,0.0
+400,Arizona,2021-02-25,108952,Pima County,2.0,,180.0,196.0,Missouri,1364,Wright County,2.0,,-1.0,0.0
+401,Arizona,2021-02-26,109137,Pima County,2.0,,185.0,192.0,Missouri,1364,Wright County,2.0,,0.0,0.0
+402,Arizona,2021-02-27,109320,Pima County,2.0,,183.0,175.0,Missouri,1364,Wright County,2.0,,0.0,-0.0
+403,Arizona,2021-02-28,109488,Pima County,2.0,,168.0,164.0,Missouri,1364,Wright County,2.0,,0.0,-0.0
+404,Arizona,2021-03-01,109601,Pima County,2.0,,113.0,160.0,Missouri,1365,Wright County,2.0,,1.0,-0.0
+405,Arizona,2021-03-02,109684,Pima County,2.0,,83.0,151.0,Missouri,1365,Wright County,2.0,,0.0,-0.0
+406,Arizona,2021-03-03,109941,Pima County,2.0,,257.0,167.0,Missouri,1365,Wright County,2.0,,0.0,0.0
+407,Arizona,2021-03-04,110072,Pima County,2.0,,131.0,160.0,Missouri,1365,Wright County,2.0,,0.0,0.0
+408,Arizona,2021-03-05,110287,Pima County,2.0,,215.0,164.0,Missouri,1365,Wright County,2.0,,0.0,0.0
+409,Arizona,2021-03-06,110345,Pima County,2.0,,58.0,146.0,Missouri,1365,Wright County,2.0,,0.0,0.0
+410,Arizona,2021-03-07,110487,Pima County,2.0,,142.0,143.0,Missouri,1365,Wright County,2.0,,0.0,0.0
+411,Arizona,2021-03-08,110590,Pima County,2.0,,103.0,141.0,Missouri,1367,Wright County,2.0,,2.0,0.0
+412,Arizona,2021-03-09,110642,Pima County,2.0,,52.0,137.0,Missouri,1369,Wright County,2.0,,2.0,1.0
+413,Arizona,2021-03-10,110790,Pima County,2.0,,148.0,121.0,Missouri,1371,Wright County,2.0,,2.0,1.0
+414,Arizona,2021-03-11,110931,Pima County,2.0,,141.0,123.0,Missouri,1536,Wright County,2.0,,165.0,24.0
+415,Arizona,2021-03-12,111041,Pima County,2.0,,110.0,108.0,Missouri,1539,Wright County,2.0,,3.0,25.0
+416,Arizona,2021-03-13,111115,Pima County,2.0,,74.0,110.0,Missouri,1539,Wright County,2.0,,0.0,25.0
+417,Arizona,2021-03-14,111207,Pima County,2.0,,92.0,103.0,Missouri,1539,Wright County,2.0,,0.0,25.0
+418,Arizona,2021-03-15,111344,Pima County,2.0,,137.0,108.0,Missouri,1539,Wright County,2.0,,0.0,25.0
+419,Arizona,2021-03-16,111400,Pima County,2.0,,56.0,108.0,Missouri,1539,Wright County,2.0,,0.0,24.0
+420,Arizona,2021-03-17,111427,Pima County,2.0,,27.0,91.0,Missouri,1540,Wright County,2.0,,1.0,24.0
+421,Arizona,2021-03-18,111507,Pima County,2.0,,80.0,82.0,Missouri,1547,Wright County,2.0,,7.0,2.0
+422,Arizona,2021-03-19,111582,Pima County,2.0,,75.0,77.0,Missouri,1548,Wright County,2.0,,1.0,1.0
+423,Arizona,2021-03-20,111770,Pima County,2.0,,188.0,94.0,Missouri,1551,Wright County,2.0,,3.0,2.0
+424,Arizona,2021-03-21,111825,Pima County,2.0,,55.0,88.0,Missouri,1551,Wright County,2.0,,0.0,2.0
+425,Arizona,2021-03-22,111912,Pima County,2.0,,87.0,81.0,Missouri,1551,Wright County,2.0,,0.0,2.0
+426,Arizona,2021-03-23,111950,Pima County,2.0,,38.0,79.0,Missouri,1551,Wright County,2.0,,0.0,2.0
+427,Arizona,2021-03-24,111998,Pima County,2.0,,48.0,82.0,Missouri,1551,Wright County,2.0,,0.0,2.0
+428,Arizona,2021-03-25,112045,Pima County,2.0,,47.0,77.0,Missouri,1551,Wright County,2.0,,0.0,1.0
+429,Arizona,2021-03-26,112134,Pima County,2.0,,89.0,79.0,Missouri,1552,Wright County,2.0,,1.0,1.0
+430,Arizona,2021-03-27,112265,Pima County,2.0,,131.0,71.0,Missouri,1552,Wright County,2.0,,0.0,0.0
+431,Arizona,2021-03-28,112342,Pima County,2.0,,77.0,74.0,Missouri,1553,Wright County,2.0,,1.0,0.0
+432,Arizona,2021-03-29,112477,Pima County,2.0,,135.0,81.0,Missouri,1554,Wright County,2.0,,1.0,0.0
+433,Arizona,2021-03-30,112562,Pima County,2.0,,85.0,87.0,Missouri,1554,Wright County,2.0,,0.0,0.0
+434,Arizona,2021-03-31,112677,Pima County,2.0,,115.0,97.0,Missouri,1555,Wright County,2.0,,1.0,1.0
+435,Arizona,2021-04-01,112707,Pima County,2.0,,30.0,95.0,Missouri,1556,Wright County,2.0,,1.0,1.0
+436,Arizona,2021-04-02,112846,Pima County,2.0,,139.0,102.0,Missouri,1556,Wright County,2.0,,0.0,1.0
+437,Arizona,2021-04-03,112953,Pima County,2.0,,107.0,98.0,Missouri,1556,Wright County,2.0,,0.0,1.0
+438,Arizona,2021-04-04,113030,Pima County,2.0,,77.0,98.0,Missouri,1556,Wright County,2.0,,0.0,0.0
+439,Arizona,2021-04-05,113102,Pima County,2.0,,72.0,89.0,Missouri,1556,Wright County,2.0,,0.0,0.0
+440,Arizona,2021-04-06,113171,Pima County,2.0,,69.0,87.0,Missouri,1556,Wright County,2.0,,0.0,0.0
+441,Arizona,2021-04-07,113253,Pima County,2.0,,82.0,82.0,Missouri,1557,Wright County,2.0,,1.0,0.0
+442,Arizona,2021-04-08,113375,Pima County,2.0,,122.0,95.0,Missouri,1559,Wright County,2.0,,2.0,0.0
+443,Arizona,2021-04-09,113463,Pima County,2.0,,88.0,88.0,Missouri,1559,Wright County,2.0,,0.0,0.0
+444,Arizona,2021-04-10,113542,Pima County,2.0,,79.0,84.0,Missouri,1559,Wright County,2.0,,0.0,0.0
+445,Arizona,2021-04-11,113659,Pima County,2.0,,117.0,90.0,Missouri,1559,Wright County,2.0,,0.0,0.0
+446,Arizona,2021-04-12,113764,Pima County,2.0,,105.0,95.0,Missouri,1559,Wright County,2.0,,0.0,0.0
+447,Arizona,2021-04-13,113822,Pima County,2.0,,58.0,93.0,Missouri,1559,Wright County,2.0,,0.0,0.0
+448,Arizona,2021-04-14,113903,Pima County,2.0,,81.0,93.0,Missouri,1561,Wright County,2.0,,2.0,1.0
+449,Arizona,2021-04-15,114029,Pima County,2.0,,126.0,93.0,Missouri,1562,Wright County,2.0,,1.0,0.0
+450,Arizona,2021-04-16,113998,Pima County,2.0,,-31.0,76.0,Missouri,1564,Wright County,2.0,,2.0,1.0
+451,Arizona,2021-04-17,114094,Pima County,2.0,,96.0,79.0,Missouri,1540,Wright County,2.0,,-24.0,-3.0
+452,Arizona,2021-04-18,114179,Pima County,2.0,,85.0,74.0,Missouri,1547,Wright County,2.0,,7.0,-2.0
+453,Arizona,2021-04-19,114294,Pima County,2.0,,115.0,76.0,Missouri,1548,Wright County,2.0,,1.0,-2.0
+454,Arizona,2021-04-20,114345,Pima County,2.0,,51.0,75.0,Missouri,1551,Wright County,2.0,,3.0,-1.0
+455,Arizona,2021-04-21,114438,Pima County,2.0,,93.0,76.0,Missouri,1551,Wright County,2.0,,0.0,-1.0
+456,Arizona,2021-04-22,114625,Pima County,2.0,,187.0,85.0,Missouri,1551,Wright County,2.0,,0.0,-2.0
+457,Arizona,2021-04-23,114721,Pima County,2.0,,96.0,103.0,Missouri,1551,Wright County,2.0,,0.0,-2.0
+458,Arizona,2021-04-24,114760,Pima County,2.0,,39.0,95.0,Missouri,1557,Wright County,2.0,,6.0,2.0
+459,Arizona,2021-04-25,114830,Pima County,2.0,,70.0,93.0,Missouri,1566,Wright County,2.0,,9.0,3.0
+460,Arizona,2021-04-26,114892,Pima County,2.0,,62.0,85.0,Missouri,1570,Wright County,2.0,,4.0,3.0
+461,Arizona,2021-04-27,114956,Pima County,2.0,,64.0,87.0,Missouri,1571,Wright County,2.0,,1.0,3.0
+462,Arizona,2021-04-28,114991,Pima County,2.0,,35.0,79.0,Missouri,1571,Wright County,2.0,,0.0,3.0
+463,Arizona,2021-04-29,115107,Pima County,2.0,,116.0,69.0,Missouri,1572,Wright County,2.0,,1.0,3.0
+464,Arizona,2021-04-30,115133,Pima County,2.0,,26.0,59.0,Missouri,1573,Wright County,2.0,,1.0,3.0
+465,Arizona,2021-05-01,115239,Pima County,2.0,,106.0,68.0,Missouri,1575,Wright County,2.0,,2.0,3.0
+466,Arizona,2021-05-02,115289,Pima County,2.0,,50.0,66.0,Missouri,1577,Wright County,2.0,,2.0,2.0
+467,Arizona,2021-05-03,115361,Pima County,2.0,,72.0,67.0,Missouri,1578,Wright County,2.0,,1.0,1.0
+468,Arizona,2021-05-04,115437,Pima County,2.0,,76.0,69.0,Missouri,1578,Wright County,2.0,,0.0,1.0
+469,Arizona,2021-05-05,115462,Pima County,2.0,,25.0,67.0,Missouri,1578,Wright County,2.0,,0.0,1.0
+470,Arizona,2021-05-06,115566,Pima County,2.0,,104.0,66.0,Missouri,1580,Wright County,2.0,,2.0,1.0
+471,Arizona,2021-05-07,115607,Pima County,2.0,,41.0,68.0,Missouri,1580,Wright County,2.0,,0.0,1.0
+472,Arizona,2021-05-08,115722,Pima County,2.0,,115.0,69.0,Missouri,1581,Wright County,2.0,,1.0,1.0
+473,Arizona,2021-05-09,115744,Pima County,2.0,,22.0,65.0,Missouri,1581,Wright County,2.0,,0.0,1.0
+474,Arizona,2021-05-10,115805,Pima County,2.0,,61.0,63.0,Missouri,1581,Wright County,2.0,,0.0,0.0
+475,Arizona,2021-05-11,115872,Pima County,2.0,,67.0,62.0,Missouri,1584,Wright County,2.0,,3.0,1.0
+476,Arizona,2021-05-12,115830,Pima County,2.0,,-42.0,53.0,Missouri,1584,Wright County,2.0,,0.0,1.0
+477,Arizona,2021-05-13,115905,Pima County,2.0,,75.0,48.0,Missouri,1584,Wright County,2.0,,0.0,1.0
+478,Arizona,2021-05-14,115906,Pima County,2.0,,1.0,43.0,Missouri,1589,Wright County,2.0,,5.0,1.0
+479,Arizona,2021-05-15,115916,Pima County,2.0,,10.0,28.0,Missouri,1589,Wright County,2.0,,0.0,1.0
+480,Arizona,2021-05-16,115950,Pima County,2.0,,34.0,29.0,Missouri,1590,Wright County,2.0,,1.0,1.0
+481,Arizona,2021-05-17,116007,Pima County,2.0,,57.0,29.0,Missouri,1591,Wright County,2.0,,1.0,1.0
+482,Arizona,2021-05-18,116068,Pima County,2.0,,61.0,28.0,Missouri,1593,Wright County,2.0,,2.0,1.0
+483,Arizona,2021-05-19,116094,Pima County,2.0,,26.0,38.0,Missouri,1595,Wright County,2.0,,2.0,2.0
+484,Arizona,2021-05-20,116101,Pima County,2.0,,7.0,28.0,Missouri,1597,Wright County,2.0,,2.0,2.0
+485,Arizona,2021-05-21,116231,Pima County,2.0,,130.0,46.0,Missouri,1599,Wright County,2.0,,2.0,1.0
+486,Arizona,2021-05-22,116276,Pima County,2.0,,45.0,51.0,Missouri,1601,Wright County,2.0,,2.0,2.0
+487,Arizona,2021-05-23,116283,Pima County,2.0,,7.0,48.0,Missouri,1603,Wright County,2.0,,2.0,2.0
+488,Arizona,2021-05-24,116320,Pima County,2.0,,37.0,45.0,Missouri,1605,Wright County,2.0,,2.0,2.0
+489,Arizona,2021-05-25,116359,Pima County,2.0,,39.0,42.0,Missouri,1605,Wright County,2.0,,0.0,2.0
+490,Arizona,2021-05-26,116417,Pima County,2.0,,58.0,46.0,Missouri,1614,Wright County,2.0,,9.0,3.0
+491,Arizona,2021-05-27,116475,Pima County,2.0,,58.0,53.0,Missouri,1616,Wright County,2.0,,2.0,3.0
+492,Arizona,2021-05-28,116485,Pima County,2.0,,10.0,36.0,Missouri,1619,Wright County,2.0,,3.0,3.0
+493,Arizona,2021-05-29,116539,Pima County,2.0,,54.0,38.0,Missouri,1620,Wright County,2.0,,1.0,3.0
+494,Arizona,2021-05-30,116539,Pima County,2.0,,0.0,37.0,Missouri,1621,Wright County,2.0,,1.0,3.0
+495,Arizona,2021-05-31,116917,Pima County,2.0,,378.0,85.0,Missouri,1623,Wright County,2.0,,2.0,3.0
+496,Arizona,2021-06-01,116910,Pima County,2.0,,-7.0,79.0,Missouri,1623,Wright County,2.0,,0.0,3.0
+497,Arizona,2021-06-02,116980,Pima County,2.0,,70.0,80.0,Missouri,1625,Wright County,2.0,,2.0,2.0
+498,Arizona,2021-06-03,116997,Pima County,2.0,,17.0,75.0,Missouri,1625,Wright County,2.0,,0.0,1.0
+499,Arizona,2021-06-04,117001,Pima County,2.0,,4.0,74.0,Missouri,1629,Wright County,2.0,,4.0,1.0
+500,Arizona,2021-06-05,116944,Pima County,2.0,,-57.0,58.0,Missouri,1633,Wright County,2.0,,4.0,2.0
+501,Arizona,2021-06-06,116850,Pima County,2.0,,-94.0,44.0,Missouri,1629,Wright County,2.0,,-4.0,1.0
+502,Arizona,2021-06-07,116900,Pima County,2.0,,50.0,-2.0,Missouri,1635,Wright County,2.0,,6.0,2.0
+503,Arizona,2021-06-08,116905,Pima County,2.0,,5.0,-1.0,Missouri,1635,Wright County,2.0,,0.0,2.0
+504,Arizona,2021-06-09,116826,Pima County,2.0,,-79.0,-22.0,Missouri,1639,Wright County,2.0,,4.0,2.0
+505,Arizona,2021-06-10,116855,Pima County,2.0,,29.0,-20.0,Missouri,1645,Wright County,2.0,,6.0,3.0
+506,Arizona,2021-06-11,116903,Pima County,2.0,,48.0,-14.0,Missouri,1650,Wright County,2.0,,5.0,3.0
+507,Arizona,2021-06-12,116936,Pima County,2.0,,33.0,-1.0,Missouri,1655,Wright County,2.0,,5.0,3.0
+508,Arizona,2021-06-13,116980,Pima County,2.0,,44.0,19.0,Missouri,1655,Wright County,2.0,,0.0,4.0
+509,Arizona,2021-06-14,117021,Pima County,2.0,,41.0,17.0,Missouri,1659,Wright County,2.0,,4.0,3.0
+510,Arizona,2021-06-15,117049,Pima County,2.0,,28.0,21.0,Missouri,1666,Wright County,2.0,,7.0,4.0
+511,Arizona,2021-06-16,117080,Pima County,2.0,,31.0,36.0,Missouri,1679,Wright County,2.0,,13.0,6.0
+512,Arizona,2021-06-17,117156,Pima County,2.0,,76.0,43.0,Missouri,1688,Wright County,2.0,,9.0,6.0
+513,Arizona,2021-06-18,117166,Pima County,2.0,,10.0,38.0,Missouri,1698,Wright County,2.0,,10.0,7.0
+514,Arizona,2021-06-19,117197,Pima County,2.0,,31.0,37.0,Missouri,1699,Wright County,2.0,,1.0,6.0
+515,Arizona,2021-06-20,117236,Pima County,2.0,,39.0,37.0,Missouri,1702,Wright County,2.0,,3.0,7.0
+516,Arizona,2021-06-21,117267,Pima County,2.0,,31.0,35.0,Missouri,1704,Wright County,2.0,,2.0,6.0
+517,Arizona,2021-06-22,117297,Pima County,2.0,,30.0,35.0,Missouri,1710,Wright County,2.0,,6.0,6.0
+518,Arizona,2021-06-23,117374,Pima County,2.0,,77.0,42.0,Missouri,1713,Wright County,2.0,,3.0,5.0
+519,Arizona,2021-06-24,117420,Pima County,2.0,,46.0,38.0,Missouri,1721,Wright County,2.0,,8.0,5.0
+520,Arizona,2021-06-25,117459,Pima County,2.0,,39.0,42.0,Missouri,1728,Wright County,2.0,,7.0,4.0
+521,Arizona,2021-06-26,117534,Pima County,2.0,,75.0,48.0,Missouri,1737,Wright County,2.0,,9.0,5.0
+522,Arizona,2021-06-27,117559,Pima County,2.0,,25.0,46.0,Missouri,1742,Wright County,2.0,,5.0,6.0
+523,Arizona,2021-06-28,117604,Pima County,2.0,,45.0,48.0,Missouri,1743,Wright County,2.0,,1.0,6.0
+524,Arizona,2021-06-29,117657,Pima County,2.0,,53.0,51.0,Missouri,1747,Wright County,2.0,,4.0,5.0
+525,Arizona,2021-06-30,117731,Pima County,2.0,,74.0,51.0,Missouri,1751,Wright County,2.0,,4.0,5.0
+526,Arizona,2021-07-01,117783,Pima County,2.0,,52.0,52.0,Missouri,1758,Wright County,2.0,,7.0,5.0
+527,Arizona,2021-07-02,117863,Pima County,2.0,,80.0,58.0,Missouri,1767,Wright County,2.0,,9.0,6.0
+528,Arizona,2021-07-03,117901,Pima County,2.0,,38.0,52.0,Missouri,1766,Wright County,2.0,,-1.0,4.0
+529,Arizona,2021-07-04,117907,Pima County,2.0,,6.0,50.0,Missouri,1773,Wright County,2.0,,7.0,4.0
+530,Arizona,2021-07-05,117941,Pima County,2.0,,34.0,48.0,Missouri,1780,Wright County,2.0,,7.0,5.0
+531,Arizona,2021-07-06,117984,Pima County,2.0,,43.0,47.0,Missouri,1783,Wright County,2.0,,3.0,5.0
+532,Arizona,2021-07-07,118009,Pima County,2.0,,25.0,40.0,Missouri,1787,Wright County,2.0,,4.0,5.0
+533,Arizona,2021-07-08,118106,Pima County,2.0,,97.0,46.0,Missouri,1798,Wright County,2.0,,11.0,6.0
+534,Arizona,2021-07-09,118152,Pima County,2.0,,46.0,41.0,Missouri,1817,Wright County,2.0,,19.0,7.0
+535,Arizona,2021-07-10,118218,Pima County,2.0,,66.0,45.0,Missouri,1834,Wright County,2.0,,17.0,10.0
+536,Arizona,2021-07-11,118320,Pima County,2.0,,102.0,59.0,Missouri,1840,Wright County,2.0,,6.0,10.0
+537,Arizona,2021-07-12,118328,Pima County,2.0,,8.0,55.0,Missouri,1840,Wright County,2.0,,0.0,9.0
+538,Arizona,2021-07-13,118327,Pima County,2.0,,-1.0,49.0,Missouri,1862,Wright County,2.0,,22.0,11.0
+539,Arizona,2021-07-14,118468,Pima County,2.0,,141.0,66.0,Missouri,1885,Wright County,2.0,,23.0,14.0
+540,Arizona,2021-07-15,118555,Pima County,2.0,,87.0,64.0,Missouri,1894,Wright County,2.0,,9.0,14.0
+541,Arizona,2021-07-16,118643,Pima County,2.0,,88.0,70.0,Missouri,1915,Wright County,2.0,,21.0,14.0
+542,Arizona,2021-07-17,118643,Pima County,2.0,,0.0,61.0,Missouri,1926,Wright County,2.0,,11.0,13.0
+543,Arizona,2021-07-18,118849,Pima County,2.0,,206.0,76.0,Missouri,1939,Wright County,2.0,,13.0,14.0
+544,Arizona,2021-07-19,118938,Pima County,2.0,,89.0,87.0,Missouri,1943,Wright County,2.0,,4.0,15.0
+545,Arizona,2021-07-20,119001,Pima County,2.0,,63.0,96.0,Missouri,1956,Wright County,2.0,,13.0,13.0
+546,Arizona,2021-07-21,119094,Pima County,2.0,,93.0,89.0,Missouri,1985,Wright County,2.0,,29.0,14.0
+547,Arizona,2021-07-22,119261,Pima County,2.0,,167.0,101.0,Missouri,2009,Wright County,2.0,,24.0,16.0
+548,Arizona,2021-07-23,119297,Pima County,2.0,,36.0,93.0,Missouri,2041,Wright County,2.0,,32.0,18.0
+549,Arizona,2021-07-24,119408,Pima County,2.0,,111.0,109.0,Missouri,2063,Wright County,2.0,,22.0,20.0
+550,Arizona,2021-07-25,119530,Pima County,2.0,,122.0,97.0,Missouri,2070,Wright County,2.0,,7.0,19.0
+551,Arizona,2021-07-26,119623,Pima County,2.0,,93.0,98.0,Missouri,2073,Wright County,2.0,,3.0,19.0
+552,Arizona,2021-07-27,119681,Pima County,2.0,,58.0,97.0,Missouri,2077,Wright County,2.0,,4.0,17.0
+553,Arizona,2021-07-28,119795,Pima County,2.0,,114.0,100.0,Missouri,2088,Wright County,2.0,,11.0,15.0
+554,Arizona,2021-07-29,119969,Pima County,2.0,,174.0,101.0,Missouri,2109,Wright County,2.0,,21.0,14.0
+555,Arizona,2021-07-30,120075,Pima County,2.0,,106.0,111.0,Missouri,2129,Wright County,2.0,,20.0,13.0
+556,Arizona,2021-07-31,120316,Pima County,2.0,,241.0,130.0,Missouri,2134,Wright County,2.0,,5.0,10.0
+557,Arizona,2021-08-01,120357,Pima County,2.0,,41.0,118.0,Missouri,2141,Wright County,2.0,,7.0,10.0
+558,Arizona,2021-08-02,120505,Pima County,2.0,,148.0,126.0,Missouri,2144,Wright County,2.0,,3.0,10.0
+559,Arizona,2021-08-03,120634,Pima County,2.0,,129.0,136.0,Missouri,2157,Wright County,2.0,,13.0,11.0
+560,Arizona,2021-08-04,120947,Pima County,2.0,,313.0,165.0,Missouri,2167,Wright County,2.0,,10.0,11.0
+561,Arizona,2021-08-05,121009,Pima County,2.0,,62.0,149.0,Missouri,2174,Wright County,2.0,,7.0,9.0
+562,Arizona,2021-08-06,121281,Pima County,2.0,,272.0,172.0,Missouri,2182,Wright County,2.0,,8.0,8.0
+563,Arizona,2021-08-07,121411,Pima County,2.0,,130.0,156.0,Missouri,2199,Wright County,2.0,,17.0,9.0
+564,Arizona,2021-08-08,121658,Pima County,2.0,,247.0,186.0,Missouri,2202,Wright County,2.0,,3.0,9.0
+565,Arizona,2021-08-09,121770,Pima County,2.0,,112.0,181.0,Missouri,2203,Wright County,2.0,,1.0,8.0
+566,Arizona,2021-08-10,122012,Pima County,2.0,,242.0,197.0,Missouri,2208,Wright County,2.0,,5.0,7.0
+567,Arizona,2021-08-11,122068,Pima County,2.0,,56.0,160.0,Missouri,2218,Wright County,2.0,,10.0,7.0
+568,Arizona,2021-08-12,122363,Pima County,2.0,,295.0,193.0,Missouri,2222,Wright County,2.0,,4.0,7.0
+569,Arizona,2021-08-13,122635,Pima County,2.0,,272.0,193.0,Missouri,2229,Wright County,2.0,,7.0,7.0
+570,Arizona,2021-08-14,122934,Pima County,2.0,,299.0,218.0,Missouri,2235,Wright County,2.0,,6.0,5.0
+571,Arizona,2021-08-15,123228,Pima County,2.0,,294.0,224.0,Missouri,2236,Wright County,2.0,,1.0,5.0
+572,Arizona,2021-08-16,123403,,,,175.0,233.0,Missouri,2238,,,,2.0,5.0
+573,Arizona,2021-08-17,123574,,,,171.0,223.0,Missouri,2241,,,,3.0,5.0
+574,Arizona,2021-08-18,123836,,,,262.0,253.0,Missouri,2249,,,,8.0,4.0
+575,Arizona,2021-08-19,124237,,,,401.0,268.0,Missouri,2264,,,,15.0,6.0
+576,Arizona,2021-08-20,124453,,,,216.0,260.0,Missouri,2270,,,,6.0,6.0
+577,Arizona,2021-08-21,124717,,,,264.0,255.0,Missouri,2276,,,,6.0,6.0
+578,Arizona,2021-08-22,124965,,,,248.0,248.0,Missouri,2279,,,,3.0,6.0
+579,Arizona,2021-08-23,125194,,,,229.0,256.0,Missouri,2282,,,,3.0,6.0
+580,Arizona,2021-08-24,125346,,,,152.0,253.0,Missouri,2288,,,,6.0,7.0
+581,Arizona,2021-08-25,125346,,,,0.0,216.0,Missouri,2300,,,,12.0,7.0
+582,Arizona,2021-08-26,126140,,,,794.0,272.0,Missouri,2303,,,,3.0,6.0
+583,Arizona,2021-08-27,126442,,,,302.0,284.0,Missouri,2316,,,,13.0,7.0
+584,Arizona,2021-08-28,126802,,,,360.0,298.0,Missouri,2319,,,,3.0,6.0
+585,Arizona,2021-08-29,126928,,,,126.0,280.0,Missouri,2322,,,,3.0,6.0
+586,Arizona,2021-08-30,127245,,,,317.0,293.0,Missouri,2331,,,,9.0,7.0
+587,Arizona,2021-08-31,127294,,,,49.0,278.0,Missouri,2335,,,,4.0,7.0
+588,Arizona,2021-09-01,127751,,,,457.0,344.0,Missouri,2340,,,,5.0,6.0
+589,Arizona,2021-09-02,128056,,,,305.0,274.0,Missouri,2344,,,,4.0,6.0
+590,Arizona,2021-09-03,128362,,,,306.0,274.0,Missouri,2355,,,,11.0,6.0
+591,Arizona,2021-09-04,128624,,,,262.0,260.0,Missouri,2361,,,,6.0,6.0
+592,Arizona,2021-09-05,128953,,,,329.0,289.0,Missouri,2362,,,,1.0,6.0
+593,Arizona,2021-09-06,129139,,,,186.0,271.0,Missouri,2365,,,,3.0,5.0
+594,Arizona,2021-09-07,129321,,,,182.0,290.0,Missouri,2365,,,,0.0,4.0
+595,Arizona,2021-09-08,129472,,,,151.0,246.0,Missouri,2370,,,,5.0,4.0
+596,Arizona,2021-09-09,129788,,,,316.0,247.0,Missouri,2377,,,,7.0,5.0
+597,Arizona,2021-09-10,130126,,,,338.0,252.0,Missouri,2387,,,,10.0,5.0
+598,Arizona,2021-09-11,130405,,,,279.0,254.0,Missouri,2396,,,,9.0,5.0
+599,Arizona,2021-09-12,130673,,,,268.0,246.0,Missouri,2408,,,,12.0,7.0
+600,Arizona,2021-09-13,130914,,,,241.0,254.0,Missouri,2408,,,,0.0,6.0
+601,Arizona,2021-09-14,131183,,,,269.0,266.0,Missouri,2414,,,,6.0,7.0
+602,Arizona,2021-09-15,131385,,,,202.0,273.0,Missouri,2426,,,,12.0,8.0
+603,Arizona,2021-09-16,131742,,,,357.0,279.0,Missouri,2428,,,,2.0,7.0
+604,Arizona,2021-09-17,131978,,,,236.0,265.0,Missouri,2439,,,,11.0,7.0
+605,Arizona,2021-09-18,132229,,,,251.0,261.0,Missouri,2441,,,,2.0,6.0
+606,Arizona,2021-09-19,132550,,,,321.0,268.0,Missouri,2445,,,,4.0,5.0
+607,Arizona,2021-09-20,132789,,,,239.0,268.0,Missouri,2448,,,,3.0,6.0
+608,Arizona,2021-09-21,132958,,,,169.0,254.0,Missouri,2450,,,,2.0,5.0
+609,Arizona,2021-09-22,133119,,,,161.0,248.0,Missouri,2456,,,,6.0,4.0
+610,Arizona,2021-09-23,133375,,,,256.0,233.0,Missouri,2464,,,,8.0,5.0
+611,Arizona,2021-09-24,133750,,,,375.0,253.0,Missouri,2471,,,,7.0,5.0
+612,Arizona,2021-09-25,134104,,,,354.0,268.0,Missouri,2473,,,,2.0,5.0
+613,Arizona,2021-09-26,134278,,,,174.0,247.0,Missouri,2478,,,,5.0,5.0
+614,Arizona,2021-09-27,134506,,,,228.0,245.0,Missouri,2478,,,,0.0,4.0
+615,Arizona,2021-09-28,134558,,,,52.0,229.0,Missouri,2482,,,,4.0,5.0
+616,Arizona,2021-09-29,134906,,,,348.0,255.0,Missouri,2491,,,,9.0,5.0
+617,Arizona,2021-09-30,135212,,,,306.0,262.0,Missouri,2495,,,,4.0,4.0
+618,Arizona,2021-10-01,135546,,,,334.0,257.0,Missouri,2500,,,,5.0,4.0
+619,Arizona,2021-10-02,135911,,,,365.0,258.0,Missouri,2504,,,,4.0,4.0
+620,Arizona,2021-10-03,136151,,,,240.0,268.0,Missouri,2506,,,,2.0,4.0
+621,Arizona,2021-10-04,136445,,,,294.0,277.0,Missouri,2506,,,,0.0,4.0
+622,Arizona,2021-10-05,136704,,,,259.0,307.0,Missouri,2507,,,,1.0,4.0
+623,Arizona,2021-10-06,136865,,,,161.0,280.0,Missouri,2511,,,,4.0,3.0
+624,Arizona,2021-10-07,137208,,,,343.0,285.0,Missouri,2513,,,,2.0,3.0
+625,Arizona,2021-10-08,137520,,,,312.0,282.0,Missouri,2516,,,,3.0,2.0
+626,Arizona,2021-10-09,137882,,,,362.0,282.0,Missouri,2519,,,,3.0,2.0
+627,Arizona,2021-10-10,138115,,,,233.0,281.0,Missouri,2519,,,,0.0,2.0
+628,Arizona,2021-10-11,138398,,,,283.0,279.0,Missouri,2520,,,,1.0,2.0
+629,Arizona,2021-10-12,138627,,,,229.0,275.0,Missouri,2522,,,,2.0,2.0
+630,Arizona,2021-10-13,138833,,,,206.0,281.0,Missouri,2521,,,,-1.0,1.0
+631,Arizona,2021-10-14,139075,,,,242.0,267.0,Missouri,2523,,,,2.0,1.0
+632,Arizona,2021-10-15,139324,,,,249.0,258.0,Missouri,2528,,,,5.0,2.0
+633,Arizona,2021-10-16,139636,,,,312.0,251.0,Missouri,2530,,,,2.0,2.0
+634,Arizona,2021-10-17,139636,,,,0.0,217.0,Missouri,2531,,,,1.0,2.0
+635,Arizona,2021-10-18,139636,,,,0.0,177.0,Missouri,2532,,,,1.0,2.0
+636,Arizona,2021-10-19,140329,,,,693.0,243.0,Missouri,2533,,,,1.0,2.0
+637,Arizona,2021-10-20,140522,,,,193.0,241.0,Missouri,2537,,,,4.0,2.0
+638,Arizona,2021-10-21,140933,,,,411.0,265.0,Missouri,2538,,,,1.0,2.0
+639,Arizona,2021-10-22,141181,,,,248.0,265.0,Missouri,2539,,,,1.0,2.0
+640,Arizona,2021-10-23,141688,,,,507.0,293.0,Missouri,2540,,,,1.0,1.0
+641,Arizona,2021-10-24,141869,,,,181.0,319.0,Missouri,2541,,,,1.0,1.0
+642,Arizona,2021-10-25,141870,,,,1.0,319.0,Missouri,2544,,,,3.0,2.0
+643,Arizona,2021-10-26,141921,,,,51.0,227.0,Missouri,2548,,,,4.0,2.0
+644,Arizona,2021-10-27,142863,,,,942.0,334.0,Missouri,2553,,,,5.0,2.0
+645,Arizona,2021-10-28,143208,,,,345.0,325.0,Missouri,2556,,,,3.0,3.0
+646,Arizona,2021-10-29,143800,,,,592.0,374.0,Missouri,2559,,,,3.0,3.0
+647,Arizona,2021-10-30,144130,,,,330.0,349.0,Missouri,2563,,,,4.0,3.0
+648,Arizona,2021-10-31,144615,,,,485.0,392.0,Missouri,2565,,,,2.0,3.0
