@@ -2,12 +2,15 @@
 
 # Introducation
 
-The Coronavirus pandemic has pushed medical resources to the limit and caused many small businesses, such as restaurants, salons, and fitness centers to close. This report analyzes the pandemic’s impact on unemployment rates in Pima County, Arizona and provides valuable information to policymakers. It examines unemployment rates from 2014 to 2021 and then shows how unemployment rates have varied monthly since the pandemic began. It also compares unemployment rates before and after the beginning of the pandemic. The final portion of the analysis examines the relationship between new infection cases and unemployment rates.
+The Coronavirus pandemic has pushed medical resources to the limit and caused many small businesses, such as restaurants, salons, and fitness centers to close. This report analyzes the pandemic’s impact on unemployment rates in Pima County, Arizona and provides valuable information to policymakers. It examines unemployment rates from 2014 to 2021 and then shows how unemployment rates have varied monthly since the pandemic began. It also compares unemployment rates before and after the beginning of the pandemic. Then, it examines the relationship between new infection cases and unemployment rates. The final portion of the analysis shows whether mask mandates will slow down the spread of COVID-19.
+
 
 # Hypothesis
 
 - The COVID-19 pandemic severely affects the unemployment rate.
 - The unemployment rate is positively correlated with the number of COVID-19 cases.
+- Mask mandates will slow down the spread of COVID-19.
+
 
 # Analytical Methods
 
